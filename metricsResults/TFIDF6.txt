@@ -1,0 +1,5 @@
+root_mean_square:0.0887298558659
+R_squared:-0.775803469262
+Modified_Hubert:0.198294506977
+calinski:49.5479978216
+silhouette:0.217109387267
